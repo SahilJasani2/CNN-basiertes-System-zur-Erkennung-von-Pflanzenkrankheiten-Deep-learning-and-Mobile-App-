@@ -1,1 +1,1 @@
-# CNN-basiertes System zur Erkennung von Pflanzenkrankheiten (Deep learning and Mobile App)
+# CNN-basiertes System zur Erkennung von Pflanzenkrankheiten (Deep learning und Mobile App)
